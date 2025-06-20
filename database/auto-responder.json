@@ -4,11 +4,85 @@
         "answer": "Olá, tudo bem?"
     },
     {
-        "match": "Tudo bem",
+        "match": "Tudo bem?",
         "answer": "Estou bem, obrigado por perguntar"
     },
     {
-        "match": "Qual seu nome",
+        "match": "Qual seu nome?",
         "answer": "Meu nome é Takeshi Bot"
-    }
+    },
+  {
+    "match": "Bom dia",
+    "answer": "Bom dia! Como você está?"
+  },
+  {
+    "match": "Bom dia!",
+    "answer": "Bom dia! Tenha um ótimo dia!"
+  },
+  {
+    "match": "Bom diaa",
+    "answer": "Bom dia! Tudo bem com você?"
+  },
+  {
+    "match": "bom dia",
+    "answer": "Bom dia! Já tomou seu café?"
+  },
+  {
+    "match": "Um ótimo dia para você",
+    "answer": "Para você também! Que seu dia seja excelente."
+  },
+  {
+    "match": "Dia bom",
+    "answer": "Bom dia! Que seja um dia produtivo!"
+  },
+  {    "match": "Tenha um bom dia",
+    "answer": "Igualmente! Tenha um dia maravilhoso."
+  },
+  {
+    "match": "Boa tarde",
+    "answer": "Boa tarde! Como está sendo seu dia?"
+  },
+  {
+    "match": "Boa tarde!",
+    "answer": "Boa tarde! Espero que esteja tudo bem por aí."
+  },
+  {
+    "match": "Boa tardee",
+    "answer": "Boa tarde! Fim de tarde chegando, né?"
+  },
+  {
+    "match": "boa tarde",
+    "answer": "Boa tarde! Alguma novidade?"
+  },
+  {
+    "match": "Tenha uma boa tarde",
+    "answer": "Igualmente! Que sua tarde seja produtiva."
+  },
+  {
+    "match": "Tardezinha boa",
+    "answer": "Sim, uma ótima tarde! Aproveite!"
+  },{
+    "match": "Boa noite",
+    "answer": "Boa noite! Como foi o seu dia?"
+  },
+  {
+    "match": "Boa noite!",
+    "answer": "Boa noite! Desejo que você tenha uma noite tranquila."
+  },
+  {
+    "match": "Boa noitee",
+    "answer": "Boa noite! Hora de descansar, né?"
+  },
+  {
+    "match": "boa noite",
+    "answer": "Boa noite! Bons sonhos!"
+  },
+  {
+    "match": "Tenha uma boa noite",
+    "answer": "Igualmente! Durma bem e descanse."
+  },
+  {
+    "match": "Noite boa",
+    "answer": "Sim, uma ótima noite para você! Aproveite o descanso."
+  },
 ]
