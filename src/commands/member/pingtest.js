@@ -6,11 +6,11 @@
 const { PREFIX } = require(`${BASE_DIR}/config`);
 
 module.exports = {
-  name: "ping",
+  name: "pingtest",
   description:
     "Verificar se o bot está online, o tempo de resposta e o tempo de atividade.",
-  commands: ["ping", "pong"],
-  usage: `${PREFIX}ping`,
+  commands: ["pingtest", "pongtest"],
+  usage: `${PREFIX}pingtest`,
   /**
    * @param {CommandHandleProps} props
    * @returns {Promise<void>}
