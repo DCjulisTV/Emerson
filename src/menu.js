@@ -73,7 +73,6 @@ exports.menuMessage = () => {
 ▢
 ▢ • ${PREFIX}play-audio
 ▢ • ${PREFIX}play-video
-▢ • ${PREFIX}tik-tok
 ▢ • ${PREFIX}yt-mp3
 ▢ • ${PREFIX}yt-mp4
 ▢
@@ -90,14 +89,18 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}gemini
 ▢ • ${PREFIX}ia-sticker
 ▢ • ${PREFIX}pixart
+▢ • ${PREFIX}stable-diffusion-turbo
 ▢
 ╰━━─「🚀」─━━
 
 ╭━━⪩ CANVAS ⪨━━
 ▢
 ▢ • ${PREFIX}cadeia
+▢ • ${PREFIX}contraste
+▢ • ${PREFIX}espelhar
+▢ • ${PREFIX}inverter
 ▢ • ${PREFIX}pixel
 ▢ • ${PREFIX}rip
 ▢
-╰━━─「❇」─━━`;`;
+╰━━─「❇」─━━`;
 };
