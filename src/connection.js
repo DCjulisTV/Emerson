@@ -84,7 +84,7 @@ async function connect() {
   if (!socket.authState.creds.registered) {
     warningLog("Credenciais ainda não configuradas!");
 
-    infoLog('Informe o número de telefone do bot (exemplo: "5511920202020"):');
+    infoLog('Informe o número de telefone do bot (exemplo: "5516981513520"):');
 
     const phoneNumber = await question("Informe o número de telefone do bot: ");
 
