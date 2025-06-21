@@ -21,18 +21,5 @@ module.exports = {
       : "🏓 Ping!";
 
     await sendReact("🏓");
-
-    const uptime = process.uptime();
-
-    const h = Math.floor(uptime / 3600);
-    const m = Math.floor((uptime % 3600) / 60);
-    const s = Math.floor(uptime % 60);
-
-    const ping = Date.now() - startProcess;
-
-    await sendReply(`${response}
-
-📶 Velocidade de resposta: ${ping}ms
-⏱️ Uptime: ${h}h ${m}m ${s}s`);
   },
 };
