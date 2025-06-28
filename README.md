@@ -6,7 +6,9 @@
 
 <br />
 
-
+📈 **Visitas Totais**:  
+![Contador de Visitas](https://count.getloli.com/@nazuninha-bot?name=nazuninha-bot&theme=booru-lewd&padding=8&offset=0&align=top&scale=2&pixelated=1&darkmode=1)  
+*Quantas pessoas visitaram o projeto.*
 
 ## Tecnologias envolvidas
 
